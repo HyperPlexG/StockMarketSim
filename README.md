@@ -9,4 +9,4 @@ TThis is a Java-based Stock Market Simulator designed to provide an interactive 
 
 The program simulates stock price fluctuations in real-time, with updates occurring every 10 seconds, making it dynamic and engaging. The built-in features like viewing stock trends, portfolio management, and interactive charts make it a comprehensive tool for learning about stock market dynamics.
 
-Built using Swing for the UI and JFreeChart for graphing, this project is ideal for students, hobbyists, or anyone curious about the stock market.
+Built using Swing for the UI and JFreeChart for graphing, this project is ideal for students learning about the stock market, without making the mistakes and losing money in real life.
